@@ -1,0 +1,42 @@
+.features {
+  padding-top: 26px;
+  padding-bottom: 32px;
+}
+
+.cactus {
+  display: flex;
+  margin-left: 155px;
+  margin-right: 54px;
+}
+
+.thumb {
+  min-width: 189px;
+}
+
+.cactus-title {
+  font-size: 48px;
+  line-height: 1.17;
+  margin-bottom: 20px;
+}
+
+.cactus-list {
+  padding-left: 30px;
+}
+
+.cactus-list__item {
+  font-size: 24px;
+  line-height: 1.17;
+}
+
+.cactus-text {
+  font-size: 24px;
+  line-height: 1.17;
+  margin-left: 219px;
+
+  color: #dc587e;
+}
+
+.cactus-text span {
+  display: block;
+  text-indent: 30px;
+}
